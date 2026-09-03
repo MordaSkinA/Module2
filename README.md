@@ -2,9 +2,9 @@
 
 Autonomous life simulation for NPCs - a needs-driven finite state machine that lets NPCs live on their own when the player isn't controlling them, feeding the same systemic RPG concept as Module 1
 
-![Gameplay demo](Wandering.gif)
-![Gameplay demo](Eating.gif)
-![Gameplay demo](Sleeping.gif)
+![Gameplay demo Wandering](Wandering.gif)
+![Gameplay demo Eating](Eating.gif)
+![Gameplay demo Sleeping](Sleeping.gif)
 
 
 
